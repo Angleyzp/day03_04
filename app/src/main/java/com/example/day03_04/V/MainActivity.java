@@ -19,6 +19,8 @@ import java.util.List;
 
 public class MainActivity extends BaseActivity<Presenter> implements Contract.ViewContract {
 
+    //yzp分支修改推送
+
     private RecyclerView recy;
     private ArrayList<NewsBean.NewsDTO> list;
     private Adapter adapter;
